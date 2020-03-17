@@ -1,0 +1,246 @@
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\csc.exe
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\System.Collections.Immutable.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\vbc.exe
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\VBCSCompiler.exe
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\VBCSCompiler.exe.config
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.dll.config
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.pdb
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Antlr3.Runtime.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.SqlServer.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Google.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Newtonsoft.Json.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Owin.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Net.Http.Formatting.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Helpers.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.Owin.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.WebHost.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Mvc.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Optimization.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Razor.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Deployment.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Razor.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\WebGrease.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Newtonsoft.Json.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Net.Http.Formatting.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Helpers.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.WebHost.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Mvc.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Optimization.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Razor.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Deployment.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Razor.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Antlr3.Runtime.pdb
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.SqlServer.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Google.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.Owin.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbprojResolveAssemblyReference.cache
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.Resources.resources
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbproj.GenerateResource.Cache
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.dll
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.xml
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.pdb
+D:\Sudheer_Projects_Bkup\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Symmetric.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\csc.exe
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\vbc.exe
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\VBCSCompiler.exe
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.dll.config
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.pdb
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Antlr3.Runtime.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.SqlServer.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Google.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Newtonsoft.Json.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Owin.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Net.Http.Formatting.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Helpers.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.Owin.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.WebHost.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Mvc.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Optimization.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Razor.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Deployment.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Razor.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\WebGrease.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Newtonsoft.Json.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Net.Http.Formatting.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Helpers.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.WebHost.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Mvc.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Optimization.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Razor.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Deployment.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Razor.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Antlr3.Runtime.pdb
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.SqlServer.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Google.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.Owin.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbprojResolveAssemblyReference.cache
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.Resources.resources
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbproj.GenerateResource.Cache
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.dll
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.xml
+C:\Omegacube_ERP\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.pdb
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\csc.exe
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\System.Collections.Immutable.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\vbc.exe
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\VBCSCompiler.exe
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\roslyn\VBCSCompiler.exe.config
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.dll.config
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.pdb
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\ABLE_OFFLINE_API.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Antlr3.Runtime.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.SqlServer.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Google.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Newtonsoft.Json.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Owin.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Net.Http.Formatting.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Helpers.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.Owin.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.WebHost.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Mvc.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Optimization.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Razor.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Deployment.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Razor.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\WebGrease.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Newtonsoft.Json.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Net.Http.Formatting.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Helpers.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.WebHost.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Mvc.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Optimization.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Razor.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Deployment.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.WebPages.Razor.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Antlr3.Runtime.pdb
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\EntityFramework.SqlServer.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Google.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\bin\System.Web.Http.Owin.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbprojAssemblyReference.cache
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.Resources.resources
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbproj.GenerateResource.cache
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbproj.CoreCompileInputs.cache
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.vbproj.CopyComplete
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.dll
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.xml
+D:\Deepu Files\API's\46\ABLE_OFFLINE_API\ABLE_OFFLINE_API\obj\Debug\ABLE_OFFLINE_API.pdb
